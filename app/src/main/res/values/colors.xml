@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2F5596</color>
+    <color name="colorPrimaryDark">#0C2D65</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="bill_button">#049D42</color>
+    <color name="colorPositive">#19E406</color>
+    <color name="colorNegative">#E40D06</color>
+    <color name="colorTextAlt">#FFFFFF</color>
+</resources>

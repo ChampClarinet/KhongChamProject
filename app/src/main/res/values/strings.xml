@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">ของชำ</string>
+    <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+    <string name="nav_header_title" translatable="false">Android Studio</string>
+    <string name="nav_header_subtitle" translatable="false">android.studio@android.com</string>
+    <string name="nav_header_desc" translatable="false">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="navigation_stock">เติมสินค้า</string>
+    <string name="navigation_pay_bill">รายการบิล</string>
+    <string name="navigation_faq">FAQ</string>
+    <string name="navigation_summary">ข้อมูลบัญชี</string>
+    <string name="navigation_home">คิดเงิน</string>
+    <string name="overall">ภาพรวม</string>
+    <string name="sales">ยอดขาย</string>
+    <string name="profit">กำไร</string>
+    <string name="best_sales">สินค้าขายดี</string>
+    <string name="best_time">ช่วงเวลาขายดี</string>
+    <string name="sales_volume">ปริมาณการขาย</string>
+    <string name="sales_report">การสรุปยอด</string>
+    <string name="scanner_goods_id">goods_id</string>
+    <string name="scanner_goods_quantity">goods_quantity</string>
+    <string name="pricePerUnit">หน่วยละ %1$s</string>
+    <string name="pricePerPack">แพคละ %1$s</string>
+    <string name="check_bill">bill</string>
+    <string name="no_items">ยังไม่มีสินค้า</string>
+    <string name="status_void">void</string>
+    <string name="status">status</string>
+    <string name="status_ok">ok</string>
+    <string name="total">total</string>
+    <string name="errormsg">Please enable permissions</string>
+
+</resources>
